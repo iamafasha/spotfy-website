@@ -1,1 +1,1 @@
-# spotfy-website
+# spotify
